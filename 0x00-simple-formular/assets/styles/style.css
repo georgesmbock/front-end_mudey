@@ -53,9 +53,8 @@ h1 {
 }
 
 h2 {
-    font-family: "Jersey 25 Charted", sans-serif; /*new police*/
+    /*font-family: "Jersey 25 Charted", sans-serif; new police*/
     font-weight: 400;
     /* font-style: italic; normal par defaut*/
     text-transform: uppercase; /* en mahuscule*/
-    color: blue;
 }
